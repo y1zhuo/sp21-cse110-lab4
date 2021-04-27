@@ -2,7 +2,7 @@
 2. To fix this bug, we can use conversion from string to number, (ie num1 = Number(num1)), let operands become numbers
 3. citylost
 4. part2.js
-5. 11.7 MB
+5. 11.7MB
 6. 135ms
 7. Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36
 8. Apache
